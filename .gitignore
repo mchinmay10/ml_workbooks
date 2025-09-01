@@ -1,0 +1,9 @@
+# parent dir
+.DS_Store
+
+# classification dir
+classification/image_class/dig_class_scratch/.ipynb_checkpoints
+classification/image_class/dig_class_scratch/mnist_dataset
+
+# regression dir
+regression/.ipynb_checkpoints
